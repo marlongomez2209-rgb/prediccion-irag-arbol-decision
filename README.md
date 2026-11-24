@@ -1,7 +1,7 @@
 # Predicción de atenciones por IRAG mediante árboles de decisión
 
 ## Descripción
-Este proyecto consiste en el desarrollo de una aplicación web para estimar las atenciones semanales por Infección Respiratoria Aguda Grave (IRAG) en Bucaramanga, Colombia, utilizando técnicas de inteligencia artificial y aprendizaje automático.
+Este proyecto consiste en el desarrollo de una aplicación web para estimar las atenciones semanales por Infección Respiratoria Aguda Grave (IRAG) en Colombia, utilizando técnicas de inteligencia artificial y aprendizaje automático.
 
 Se implementó un modelo de árbol de decisión entrenado con datos históricos de vigilancia epidemiológica.
 
